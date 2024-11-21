@@ -40,19 +40,15 @@ The application is developed using **Streamlit**, providing an intuitive interfa
    git clone <repository_url>
    cd book-recommender-system
    ```
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
-3. Ensure the following files are available in the project directory:
-   - `popular.pkl`
-   - `books.pkl`
-   - `pt.pkl`
-   - `similarity_scores.pkl`
+2. Ensure the following files are available in the project directory:
    - `Data/Books.csv`
    - `Data/Users.csv`
    - `Data/Ratings.csv`
+   ```
+
+3. Datasets:
+   - `Resource link`: https://www.kaggle.com/datasets/saurabhbagchi/books-dataset
 
 ### Running the Application
 1. Launch the Streamlit application:
